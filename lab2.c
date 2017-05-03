@@ -43,6 +43,6 @@ int main(){
 	  pay=sum+income;
 	  printf("\nSumma v konce sroka: %.2f", pay); 
      }
-     else printf("\nVvedennie dannie ne verny!"); 
+     else print("\nVvedennie dannie ne verny!"); 
      return 0;
 }
